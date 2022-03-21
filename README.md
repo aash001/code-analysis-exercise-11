@@ -35,14 +35,14 @@ function (actualAge){
 
 | Input | Output |
 | ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+|   1   |   15   | 
+|   2   |   24   | 
+|   7   | 44, 49 |
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>This program runs a computation of dog and cat years, with the variable being human years.</td>
   </tr>
 </table>
 
